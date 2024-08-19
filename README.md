@@ -69,11 +69,35 @@ The Logo Management System is a robust platform designed to facilitate the creat
 - Designed and implemented the front-end user interface, ensuring a seamless experience for browsing and booking tours.
 - Integrated back-end services to handle user authentication, booking management, and tour data retrieval.
 
-### 3. Railway Management System
+# Railway Management System
 
-**Description:**
-- Designed and implemented user-friendly interfaces for ticket booking and train schedules.
-- Developed back-end services to handle train scheduling, ticket management, and real-time updates.
+## Overview
+The Railway Management System is a comprehensive platform designed to streamline the process of ticket booking, train scheduling, and real-time updates. This system aims to provide users with a seamless experience, improving the efficiency and accessibility of railway services.
+
+## Key Features
+
+### User Interface:
+- **Ticket Booking:** 
+  - Designed intuitive and user-friendly interfaces for booking train tickets. 
+  - Users can easily search for available trains, select seats, and confirm bookings through a straightforward process.
+
+- **Train Schedules:** 
+  - Implemented interfaces for users to view up-to-date train schedules.
+  - Users can check train timings, routes, and availability in real-time, ensuring they have the most current information for planning their journeys.
+
+### Back-End Services:
+- **Train Scheduling:**
+  - Developed robust back-end services to manage train schedules, ensuring accurate and efficient management of train timings and routes.
+  - Automated processes to handle the complexities of scheduling multiple trains across various routes.
+
+- **Ticket Management:**
+  - Created back-end systems to handle ticket management, including booking, cancellation, and refund processes.
+  - Ensured the system is capable of managing high volumes of transactions while maintaining performance and reliability.
+
+- **Real-Time Updates:**
+  - Integrated real-time update services to keep users informed of any changes in train schedules, delays, or cancellations.
+  - The system provides immediate notifications to users, enhancing their travel experience by keeping them informed at all times.
+
 
 ## Contact
 
