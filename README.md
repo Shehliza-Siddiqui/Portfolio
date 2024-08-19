@@ -65,11 +65,18 @@ The Logo Maker Website is a robust platform designed to facilitate the creation,
 
 ### 2. Tour Management System
 
-**Description:**
-- Designed and implemented the front-end user interface, ensuring a seamless experience for browsing and booking tours.
-- Integrated back-end services to handle user authentication, booking management, and tour data retrieval.
+## Overview
+The Tour Booking System is a user-centric platform designed to facilitate an enjoyable and seamless experience for browsing and booking tours.
 
-# Railway Management System
+## Key Features
+
+- **Tour Browsing:**
+  - Developed features for users to browse various tour packages, including search and filter options, detailed descriptions, and high-quality images.
+- **Booking System:**
+  - Integrated a user-friendly booking system allowing users to select tour dates, number of participants, and additional options, with availability updates.
+
+
+### 3. Railway Management System
 
 ## Overview
 The Railway Management System is a comprehensive platform designed to streamline the process of ticket booking, train scheduling, and real-time updates. This system aims to provide users with a seamless experience, improving the efficiency and accessibility of railway services.
