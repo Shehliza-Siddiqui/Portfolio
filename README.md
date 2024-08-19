@@ -17,7 +17,7 @@ Welcome to my project portfolio! Below, you'll find my educational background fo
 ### 1. Logo Maker Website
 
 ## Overview
-The Logo Management System is a robust platform designed to facilitate the creation, management, and procurement of logos, catering to both end-users and administrators. This system leverages modern web technologies to provide a seamless user experience, integrating e-commerce capabilities, advanced search functionalities, and comprehensive admin controls.
+The Logo Maker Website is a robust platform designed to facilitate the creation, management, and procurement of logos, catering to both end-users and administrators. This system leverages modern web technologies to provide a seamless user experience, integrating e-commerce capabilities, advanced search functionalities, and comprehensive admin controls.
 
 ## Key Features
 
